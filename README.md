@@ -1,8 +1,15 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+
 <h1 align="left">Hey 🐶 What's up?</h1>
 
 ###
 
-<p align="left">👋 Hi, I'm Tony — a junior at USF 🇺🇸 originally from Vietnam 🇻🇳, studying Computer Science 💻<br><br>I'm a full-stack developer with a generalist mindset and a strong bias toward action. I learn quickly, adapt fast, and thrive in dynamic environments where I can take on a variety of roles. Whether it's building web apps, debugging backend systems, or picking up a new tool on the fly—I focus on delivering value and growing with every challenge.</p>
+<p align="left">👋 Hi, I'm Tony — a junior at USF 🇺🇸 originally from Vietnam 🇻🇳, studying Computer Science 💻<br><br> Feel like a cool air is coming over as you are here</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyNguyenVn17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TonyNguyenVn17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -92,10 +99,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyNguyenVn17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TonyNguyenVn17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
