@@ -17,6 +17,13 @@
 
 <p align="left">🧑‍💻 A Junior computer science student and builder with a weakness for elegant abstractions and dogs.<br><br>🔍 Currently exploring startup, backend systems, developer infrastructure, and how to "enjoy" life<br><br>💼 Summer 2025 SWE intern at Microsoft. Prev SDE intern at Dow Jones.<br><br>⚽️ Loves soccer, basketball (actually any sports with ball). Also very into synthesia piano 🎹</p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake.svg" />
+</picture>
+
+
 ###
 
 <h2 align="left">Fun fact</h2>
@@ -100,11 +107,4 @@
 
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake.svg" />
-</picture>
-
 
