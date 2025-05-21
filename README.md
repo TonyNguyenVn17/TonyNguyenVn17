@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
-
 <h1 align="left">Hey 🐶 What's up?</h1>
 
 ###
