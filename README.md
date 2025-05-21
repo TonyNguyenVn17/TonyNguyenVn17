@@ -22,6 +22,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Technologies I've worked with</h2>
 
 ###
@@ -51,14 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
