@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🍱 II’m an easy eater: if the food is bad, I’ll still give it a 5. If it’s good, it breaks the scale.<br><br>📦 I once wrote a 100-line script to automate something I do once a month. It still feels worth it.<br><br>🥢 Despite I'm pure Asian, I hold chopsticks incorrectly (if it works it works...)<br><br>✈️ I once booked a flight just because I liked the airport’s name. It was a nice airport. Not a great trip.<br><br>🕰️ I organize my life in Notion, Google Calendar, and Microsoft Todo List — none of them agree on what I'm doing</p>
+<p align="left">🍱 I’m an easy eater: if the food is bad, I’ll still give it a 5. If it’s good, it breaks the scale.<br><br>📦 I once wrote a 100-line script to automate something I do once a month. It still feels worth it.<br><br>🥢 Despite I'm pure Asian, I hold chopsticks incorrectly (if it works it works...)<br><br>✈️ I once booked a flight just because I liked the airport’s name. It was a nice airport. Not a great trip.<br><br>🕰️ I organize my life in Notion, Google Calendar, and Microsoft Todo List — none of them agree on what I'm doing</p>
 
 
 <h2 align="left">Technologies I've worked with</h2>
