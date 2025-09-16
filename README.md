@@ -1,4 +1,4 @@
-<h1 align="left">It's another beautiful day to live</h1>
+<h1 align="left"> Build - Learn - Build </h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🧑‍💻 A Junior computer science student and builder with a weakness for elegant abstractions and dogs.<br><br>🔍 Currently exploring startup, backend systems, developer infrastructure, and how to "enjoy" life<br><br>💼 Summer 2025 SWE intern at Microsoft. Prev SDE intern at Dow Jones.<br><br>⚽️ Loves soccer, basketball (actually any sports with ball). Also very into synthesia piano 🎹</p>
+<p align="left">🧑‍💻 A Junior computer science student and builder with a weakness for elegant abstractions and dogs.<br><br>🔍 Currently exploring startup, backend systems, developer infrastructure, and how to "enjoy" life<br><br> Summer 2025 SWE intern at Microsoft. Prev SDE intern at Dow Jones.<br><br>⚽️ Loves soccer, basketball (actually any sports with ball). Also very into synthesia piano 🎹</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyNguyenVn17/TonyNguyenVn17/output/github-snake-dark.svg" />
